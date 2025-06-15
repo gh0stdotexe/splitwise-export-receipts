@@ -122,3 +122,5 @@ You can control where the spreadsheet and receipts are saved using command-line 
 
 ## License
 MIT
+
+![Repobeats analytics badge](https://repobeats.axiom.co/api/embed/9cbb48b2c506b5d509997666a5cb7b6b3ed10d1c.svg "Repobeats analytics image")
